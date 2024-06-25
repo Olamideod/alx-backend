@@ -1,4 +1,6 @@
-dds `get_hyper` method to `Server` class
+#!/usr/bin/env python3
+"""
+Adds `get_hyper` method to `Server` class
 """
 import csv
 from typing import Dict, List, Tuple, Union
