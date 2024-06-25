@@ -25,6 +25,34 @@ By the end of this project, you should be able to explain:
 
 ## Setup
 
+Download the `Popular_Baby_N
+# Pagination Project
+
+This project involves implementing pagination for a dataset of popular baby names. The goal is to learn how to paginate a dataset with simple page and page_size parameters, with hypermedia metadata, and in a deletion-resilient manner.
+
+## Learning Objectives
+
+By the end of this project, you should be able to explain:
+
+- How to paginate a dataset with simple page and page_size parameters
+- How to paginate a dataset with hypermedia metadata
+- How to paginate in a deletion-resilient manner
+
+## Requirements
+
+- All your files will be interpreted/compiled on Ubuntu 18.04 LTS using Python 3 (version 3.7)
+- All your files should end with a new line
+- The first line of all your files should be exactly `#!/usr/bin/env python3`
+- A `README.md` file at the root of the folder of the project is mandatory
+- Your code should use the pycodestyle style (version 2.5.*)
+- The length of your files will be tested using `wc`
+- All your modules should have documentation (`python3 -c 'print(__import__("my_module").__doc__)'`)
+- All your functions should have documentation (`python3 -c 'print(__import__("my_module").my_function.__doc__)'`)
+- A documentation is not a simple word; it’s a real sentence explaining the purpose of the module, class, or method (the length of it will be verified)
+- All your functions and coroutines must be type-annotated
+
+## Setup
+
 Download the `Popular_Baby_Names.csv` file and place it in your project directory. This dataset will be used for the project tasks.
 
 ## Tasks
@@ -64,12 +92,7 @@ To run the provided test files, use the following commands:
 ./2-main.py
 ./3-main.py
 
-
-## Author
+## Author 
 
 Olamide David Oluwamusiwa
 
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
